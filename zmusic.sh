@@ -1,6 +1,7 @@
 apt install git
-git clone https://github.com/joelay636/buihgh
-tar -xf z.tar.gz
+git clone https://github.com/mgtortoise/tgmusice
+cd tgmusice
+tar -xf a.tar.gz
 cd MusicPlayer
 sudo apt install curl python3-pip ffmpeg -y
 pip3 install -U pip
